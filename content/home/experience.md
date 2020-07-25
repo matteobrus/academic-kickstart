@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Dipartimento di Scienze Chimiche, Università degli Studi di Padova"
   company_url = "https://www.google.com/search?q=unipd&oq=unipd&aqs=chrome.0.69i59j0j69i60l6.5414j0j4&sourceid=chrome&ie=UTF-8"
   location = "Padova, Italy"
-  date_start = "2020-01-06"
+  date_start = "2020-06-01"
   date_end = ""
   description = """
   * Project: Exciton Dynamics in Quantum Dots Solids for the Design of Logic Processing at the Nanoscale
@@ -31,12 +31,40 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Tutor for School of Science"
+  company = "Dipartimento di Scienze Chimiche, Università degli Studi di Padova"
+  company_url = "https://www.google.com/search?q=unipd&oq=unipd&aqs=chrome.0.69i59j0j69i60l6.5414j0j4&sourceid=chrome&ie=UTF-8"
+  location = "Padova, Italy"
+  date_start = "2019-03-01"
+  date_end = "2019-07-31"
+  description = """
+  Courses: 
+  * Organic Chemistry 1
+  * Analytical Chemistry 1  
+  """
+  
+[[experience]]
+  title = "Erasmus+ Studies"
+  company = "Department of Chemistry, NTNU"
+  company_url = "https://www.udg.edu/en/"
+  location = "Girona, Spain"
+  date_start = "2017-07-20"
+  date_end = "2018-08-17"
+  description = """
+  * Project: ”Bioinspired in Silico Oxidation of Organomonochalcogenides by H2O2”
+  * Supervisor: Prof. Marcel Swart
+  * Funding: HPC-EUROPA3 (H2020 INFRAIA-2016-1-730897)
+  """
+  
+[[experience]]
+  title = "Sholarship"
+  company = "Institut de Química Computacional i Catàlisi, Universitat de Girona"
+  company_url = "https://www.ntnu.edu/"
+  location = "Trondheim, Norway"
+  date_start = "2018-08-20"
+  date_end = "2018-12-18"
+  description = """
+  Courses from the Master’s Degree Programme in Applied Theoretical Chemistry
+  """
 
 +++
