@@ -31,6 +31,12 @@ social:
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Matteo_Bruschi
+  - link: https://orcid.org/0000-0001-7838-0363
+    icon_pack: ai
+    icon: orcid
+  - link: static/files/cv.pdf
+    icon_pack: fas
+    icon: cv
 education:
   courses:
     - course: M.Sc in Chemistry
