@@ -22,9 +22,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: matteo.bruschi95@gmail.com
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/bruscaliffo
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?view_op=list_works&hl=en&user=plynBigAAAAJ&gmla=AJsN-F6Dlp6yzKsWtrg_JcOpB69TImoXO0IIW8dXpJawO0Es_HNDwuANIcAFcs4b-ee_xW_RFaAldan__jZrydN2FXH38GI8KukKymPwivmiBwKRN7gtgA_TLEo7twkxx96IyBY8C8Jy
@@ -34,6 +31,9 @@ social:
   - link: https://orcid.org/0000-0001-7838-0363
     icon_pack: ai
     icon: orcid
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/bruscaliffo
 education:
   courses:
     - course: M.Sc in Chemistry
