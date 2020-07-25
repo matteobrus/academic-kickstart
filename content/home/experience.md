@@ -25,9 +25,9 @@ date_format = "Jan 2006"
   date_start = "2020-01-06"
   date_end = ""
   description = """
-  *Project: Exciton Dynamics in Quantum Dots Solids for the Design of Logic Processing at the Nanoscale
-  *Supervisor: Prof. Barbara Fresch
-  *Funding: COPAC (H2020 FETOPEN-1-2016-2017-766563)  
+  * Project: Exciton Dynamics in Quantum Dots Solids for the Design of Logic Processing at the Nanoscale
+  * Supervisor: Prof. Barbara Fresch
+  * Funding: COPAC (H2020 FETOPEN-1-2016-2017-766563)  
   """
 
 [[experience]]
