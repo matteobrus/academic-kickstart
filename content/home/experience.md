@@ -38,11 +38,11 @@ date_format = "Jan 2006"
   date_start = "2019-03-01"
   date_end = "2019-07-31"
   description = """
-  Courses: 
+  Courses:
   * Organic Chemistry 1
   * Analytical Chemistry 1  
   """
-  
+
 [[experience]]
   title = "Erasmus+ Studies"
   company = "Department of Chemistry, NTNU"
@@ -55,7 +55,7 @@ date_format = "Jan 2006"
   * Supervisor: Prof. Marcel Swart
   * Funding: HPC-EUROPA3 (H2020 INFRAIA-2016-1-730897)
   """
-  
+
 [[experience]]
   title = "Sholarship"
   company = "Institut de Química Computacional i Catàlisi, Universitat de Girona"
