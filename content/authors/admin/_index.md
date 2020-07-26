@@ -10,7 +10,7 @@ superuser: true
 authors:
   - admin
 title: Matteo Bruschi
-role: MSc in Chemistry
+role: M.Sc. in Chemistry
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
