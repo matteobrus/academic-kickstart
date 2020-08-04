@@ -25,7 +25,8 @@ date_format = "Jan 2006"
   date_start = "2020-06-01"
   date_end = ""
   description = """
-  * Project: Exciton Dynamics in Quantum Dots Solids for the Design of Logic Processing at the Nanoscale
+  Project:
+  * Title: Exciton Dynamics in Quantum Dots Solids for the Design of Logic Processing at the Nanoscale
   * Supervisor: Prof. Barbara Fresch
   * Funding: COPAC (H2020 FETOPEN-1-2016-2017-766563)  
   """
@@ -51,7 +52,8 @@ date_format = "Jan 2006"
   date_start = "2018-08-20"
   date_end = "2018-12-18"
   description = """
-  * Project: ”Bioinspired in Silico Oxidation of Organomonochalcogenides by H2O2”
+  Project:
+  * Title: ”Bioinspired in Silico Oxidation of Organomonochalcogenides by H2O2”
   * Supervisor: Prof. Marcel Swart
   * Funding: HPC-EUROPA3 (H2020 INFRAIA-2016-1-730897)
   """
