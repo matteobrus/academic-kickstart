@@ -31,17 +31,16 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-    title = "M.Sc. in Chemistry"
-    company = "Dipartimento di Scienze Chimiche, Università degli Studi di Padova"
-    company_url = "https://www.google.com/search?q=unipd&oq=unipd&aqs=chrome.0.69i59j0j69i60l6.5414j0j4&sourceid=chrome&ie=UTF-8"
-    location = "Padova, Italy"
-    date_start = "2013-10-02"
-    date_end = "2015-04-23"
-    description = """
-    * Thesis: Stochastic Models of Disorder in Excitonic Systems: Localization, Decoherence and Optical Response
-    * Supervisor: Prof. Barbara Fresch
-    * Final grade: 110/110 cum Laude
-    """
-
+  title = "B.Sc. in Chemistry"
+  company = "Dipartimento di Scienze Chimiche, Università degli Studi di Padova"
+  company_url = "https://www.google.com/search?q=unipd&oq=unipd&aqs=chrome.0.69i59j0j69i60l6.5414j0j4&sourceid=chrome&ie=UTF-8"
+  location = "Padova, Italy"
+  date_start = "2014-09-29"
+  date_end = "2017-09-28"
+  description = """
+  * Thesis: In Silico Oxidation of Bioinspired Organodichalcogenides of Glutathione Peroxidase: an ASA-EDA Approach
+  * Supervisor: Prof. Laura Orian
+  * Final grade: 110/110
+  """
 
 +++
