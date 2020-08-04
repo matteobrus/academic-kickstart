@@ -36,7 +36,7 @@ social:
     link: https://twitter.com/bruscaliffo
 education:
   courses:
-    - course: M.Sc in Chemistry
+    - course: M.Sc. in Chemistry
       institution: Università degli Studi di Padova
       year: 2020
     - course: B.Sc. in Chemistry
