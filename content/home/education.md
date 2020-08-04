@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   date_start = "2014-09-29"
   date_end = "2017-09-28"
   description = """
-  Thesis
+  Thesis:
   * Title: "In Silico Oxidation of Bioinspired Organodichalcogenides of Glutathione Peroxidase: an ASA-EDA Approach"
   * Supervisor: Prof. Laura Orian
   * Final grade: 110/110
