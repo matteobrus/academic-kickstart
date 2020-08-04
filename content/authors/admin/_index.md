@@ -47,4 +47,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Matteo Bruschi was born in Verona (Italy) in 1995. He is currently a post-graduate fellow involved in the FET-Open project [COPAC](http://www.copac-fet.eu/), under the supervision of prof. [Barbara Fresch](http://wwwdisc.chimica.unipd.it/theochem/pubblica/index.php/barbara-fresch/). He earned both his B.Sc. (2017) and his M.Sc. (2020) in Chemistry at Università degli Studi di Padova. His research topic concerns the emergence of localization and decoherence phenomena in the dynamics of disordered excitonic systems.
+Matteo Bruschi was born in Verona (Italy) in 1995. He is currently a post-graduate fellow involved in the FET-Open project [COPAC](http://www.copac-fet.eu/), under the supervision of prof. [Barbara Fresch](http://wwwdisc.chimica.unipd.it/theochem/pubblica/index.php/barbara-fresch/). He earned both his B.Sc. (2017) and his M.Sc. (2020) in Chemistry at [Università degli Studi di Padova](https://www.unipd.it/). His research topic concerns the emergence of localization and decoherence phenomena in the dynamics of disordered excitonic systems.
