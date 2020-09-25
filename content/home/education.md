@@ -18,6 +18,20 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Ph.D. in Molecular Sciences"
+  company = "Dipartimento di Scienze Chimiche, Università degli Studi di Padova"
+  company_url = "https://www.unipd.it/"
+  location = "Padova, Italy"
+  date_start = "2020-10-01"
+  date_end = "Present"
+  description = """
+  Thesis:
+  * Title: "Stochastic Models of Disorder in Excitonic Systems: Localization, Decoherence and Optical Response"
+  * Supervisor: Prof. Barbara Fresch
+  * Final grade: 110/110 cum Laude
+  """
+
+[[experience]]
   title = "M.Sc. in Chemistry"
   company = "Dipartimento di Scienze Chimiche, Università degli Studi di Padova"
   company_url = "https://www.unipd.it/"
@@ -39,7 +53,7 @@ date_format = "Jan 2006"
   date_start = "2014-09-29"
   date_end = "2017-09-28"
   description = """
-  Thesis:
+  Thesis
   * Title: "In Silico Oxidation of Bioinspired Organodichalcogenides of Glutathione Peroxidase: an ASA-EDA Approach"
   * Supervisor: Prof. Laura Orian
   * Final grade: 110/110
