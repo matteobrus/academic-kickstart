@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "M.Sc. in Chemistry"
-  company = "Dipartimento di Scienze Chimiche, Università degli Studi di Padova"
+  company = " di Scienze Chimiche, Università degli Studi di Padova"
   company_url = "https://www.unipd.it/"
   location = "Padova, Italy"
   date_start = "2017-10-02"
