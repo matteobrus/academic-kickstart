@@ -23,12 +23,10 @@ date_format = "Jan 2006"
   company_url = "https://www.unipd.it/"
   location = "Padova, Italy"
   date_start = "2020-06-01"
-  date_end = ""
+  date_end = "2020-09-30"
   description = """
   Project:
-  * Title: "Exciton Dynamics in Quantum Dots Solids for the Design of Logic Processing at the Nanoscale"
   * Supervisor: Prof. Barbara Fresch
-  * Funding: COPAC (H2020 FETOPEN-1-2016-2017-766563)  
   """
 
 [[experience]]
